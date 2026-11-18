@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 from groq import groq
 st.set_page_config(page_title="Placement pactice", layout = "centered")
 st.title("AI Placement Assistant")
